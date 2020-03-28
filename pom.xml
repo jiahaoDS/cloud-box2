@@ -21,6 +21,7 @@
     <modules>
         <module>cloud-box-api</module>
         <module>cloud-box-common</module>
+        <module>cloud-box-mapper</module>
     </modules>
 
     <dependencies>
